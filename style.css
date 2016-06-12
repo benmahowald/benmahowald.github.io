@@ -1,1 +1,63 @@
+<style>
+html, body {
+	text-align: center;
+	margin: auto auto;
+	height: 100%;
+	width: 100%;
+	background-image: url(bg.png);
+	background-repeat: repeat-x repeat-y;
+	border-top: 1px solid #333;
+	color: #333;
+}
+h1 {
+	font-family: arial;	
+}
+h2 {
+	font-family: arial;
+	margin-bottom: -6px;
+	color: #D8DFC4;
+}
+p {
+	margin-bottom: -10;
+	font-family: arial;
+	font-weight: light;
+}
+a {
+	color: #06F;
+}
+a:visited {
+	color: #06F;
+}
+#container {
+	width: 100%;
+	margin: 0 auto;
 
+}
+#header {
+	width: 100%;
+	text-align: center;
+	margin: auto auto;
+	margin-top: 40px;
+}
+.article {
+	width: 700px;
+	max-width: 91%;
+	text-align: left;
+	margin: auto auto;
+	color: #DFDFDF;
+	background-color: #333;
+	padding: 1%;
+	border-radius: 6px;
+	box-shadow: 6px 6px 7px #888888;
+}
+ul {
+	margin-top: -13px;
+}
+li {
+	font-family: arial;
+}
+img {
+	width: 200px;
+	border: 1px solid #333;
+}
+</style>
