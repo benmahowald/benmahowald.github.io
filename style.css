@@ -7,6 +7,7 @@ html, body {
 	background-repeat: repeat-x repeat-y;
 	border-top: 1px solid #333;
 	color: #333;
+	background-color: #DEF7D8;
 }
 h1 {
 	font-family: arial;	
@@ -30,7 +31,6 @@ a:visited {
 #container {
 	width: 100%;
 	margin: 0 auto;
-	background-color: #DEF7D8;
 }
 #header {
 	width: 100%;
